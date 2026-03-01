@@ -17,7 +17,7 @@ public class TestData {
         AddPlace place = new AddPlace();
         place.setAccuracy(90);
         place.setName("Murugan");
-        place.setPhone_number("(+91) 983 893 3937");
+        place.setPhone_number("(+91) 94590189102");
         place.setAddress("29, side layout, cohen 09");
         place.setWebsite("http://google.com");
         place.setLanguage("Tamil");
