@@ -1,7 +1,5 @@
 package Utils;
 
-import io.restassured.path.json.JsonPath;
-import io.restassured.response.Response;
 import pojo.AddPlace;
 import pojo.DeletePlace;
 import pojo.Locationloc;
